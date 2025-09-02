@@ -3,11 +3,11 @@ import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 
 const notifications = [
-  "✨ Maria de SP acabou de garantir os seus cards!",
-  "🙏 Ana do RJ transformou a rotina da família!",
-  "💝 Carla de MG recebeu os cards com sucesso!",
-  "⭐ Paula de PR está adorando o material!",
-  "🌟 Fernanda de SC recomenda para todas as mães!"
+  "✨ Sarah from New York just received her cards!",
+  "🙏 Emma from London transformed her family's routine!",
+  "💝 Jessica from Los Angeles received her cards successfully!",
+  "⭐ Michelle from Manchester is loving the material!",
+  "🌟 Rebecca from Chicago recommends it to all moms!"
 ];
 
 const FloatingElements = () => {
