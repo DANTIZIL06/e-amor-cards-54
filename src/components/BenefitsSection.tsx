@@ -35,7 +35,7 @@ const BenefitsSection = () => {
         {/* Título da seção */}
         <div className="text-center mb-12 sm:mb-16 animate-fade-in">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-musgo mb-3 sm:mb-4">
-            Por que escolher DOMUS 2025?
+            Why choose DOMUS 2025?
           </h2>
           <p className="text-sm sm:text-base md:text-lg text-muted-foreground max-w-2xl mx-auto px-2 sm:px-0">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

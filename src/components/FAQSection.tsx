@@ -1,16 +1,16 @@
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 const faqs = [{
-  question: "O material é para alguma religião específica?",
-  answer: "Não. É pautado na Palavra de Deus, não em doutrinas. Pode ser usado por pais de diferentes denominações cristãs."
+  question: "Is the material for a specific religion?",
+  answer: "No. It's based on God's Word, not on doctrines. It can be used by parents from different Christian denominations."
 }, {
-  question: "Como receberei o material?",
-  answer: "Totalmente digital (PDF). Após o pagamento, você receberá o acesso por e-mail."
+  question: "How will I receive the material?",
+  answer: "Completely digital (PDF). After payment, you will receive access by email."
 }, {
-  question: "Para qual idade é indicado?",
-  answer: "Desde o ventre até a adolescência — enquanto os filhos estiverem em casa, os pais podem declarar bênçãos."
+  question: "What age is it recommended for?",
+  answer: "From the womb to adolescence — as long as children are at home, parents can speak blessings."
 }, {
-  question: "Terei suporte?",
-  answer: "Sim! Dúvidas sobre download ou uso? Entre em contato com nosso suporte por e-mail."
+  question: "Will I have support?",
+  answer: "Yes! Questions about download or usage? Contact our support team by email."
 }];
 const FAQSection = () => {
   return <section className="py-8 sm:py-10 px-4 md:py-0 sm:px-[13px]">
@@ -18,7 +18,7 @@ const FAQSection = () => {
         {/* Título da seção */}
         <div className="text-center mb-8 sm:mb-10 animate-fade-in">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-musgo mb-3 sm:mb-4">
-            Perguntas Frequentes
+            Frequently Asked Questions
           </h2>
           
         </div>

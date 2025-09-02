@@ -3,28 +3,28 @@ import { Heart, Shield, Lightbulb, Home, Star } from "lucide-react";
 const benefits = [
   {
     icon: Heart,
-    title: "Declarações bíblicas prontas",
-    description: "Tenha declarações bíblicas prontas que facilitam a prática diária e evitam dúvidas do que dizer."
+    title: "Ready biblical declarations",
+    description: "Have ready biblical declarations that make daily practice easier and eliminate doubts about what to say."
   },
   {
     icon: Star,
-    title: "Bênçãos no momento certo",
-    description: "Use os cards para declarar bênçãos específicas, no momento certo, sobre os desafios ou necessidades dos seus filhos."
+    title: "Blessings at the right time",
+    description: "Use the cards to declare specific blessings, at the right moment, over your children's challenges or needs."
   },
   {
     icon: Lightbulb,
-    title: "Palavras que produzem frutos",
-    description: "Transforme palavras soltas e sem intenção em sementes que produzem frutos eternos."
+    title: "Words that bear fruit",
+    description: "Transform random and unintentional words into seeds that produce eternal fruit."
   },
   {
     icon: Shield,
-    title: "Inspire virtudes cristãs",
-    description: "Inspire coragem, sabedoria, responsabilidade e pensamentos positivos na vida dos seus filhos."
+    title: "Inspire Christian virtues",
+    description: "Inspire courage, wisdom, responsibility and positive thoughts in your children's lives."
   },
   {
     icon: Home,
-    title: "Ambiente de amor e proteção",
-    description: "Promova um ambiente de amor, proteção e segurança espiritual no lar."
+    title: "Environment of love and protection",
+    description: "Promote an environment of love, protection and spiritual security in the home."
   }
 ];
 
@@ -34,7 +34,7 @@ const NewBenefitsSection = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-8">
           <h2 className="text-3xl md:text-4xl font-leto font-bold text-verde-musgo mb-4">
-            Conheça os Benefícios!
+            Discover the Benefits!
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto rounded-full"></div>
         </div>
@@ -73,7 +73,7 @@ const NewBenefitsSection = () => {
         <div className="relative mt-10 pt-6 border-t border-secondary/30">
           <div className="text-center">
             <p className="text-lg lg:text-xl font-leto text-verde-musgo italic max-w-3xl mx-auto leading-relaxed mb-6">
-              "Transforme cada momento em uma oportunidade de abençoar e edificar a vida dos seus filhos com palavras que ecoam na eternidade."
+              "Transform every moment into an opportunity to bless and edify your children's lives with words that echo in eternity."
             </p>
             
             {/* CTA Button */}
@@ -88,7 +88,7 @@ const NewBenefitsSection = () => {
                 className="btn-primary text-xl lg:text-2xl px-10 py-5 bg-primary hover:bg-primary/90 text-primary-foreground rounded-xl shadow-[var(--shadow-cta)] font-leto font-bold group relative overflow-hidden animate-pulse-gentle"
               >
                 <span className="relative z-10 flex items-center gap-3">
-                  Quero o Meu Agora
+                  I Want Mine Now
                   <Heart className="w-6 h-6 group-hover:animate-pulse" />
                 </span>
                 
@@ -97,7 +97,7 @@ const NewBenefitsSection = () => {
               </button>
               
               <p className="text-sm text-muted-foreground mt-3 font-leto">
-                ✨ Transforme suas palavras em bênçãos eternas
+                ✨ Transform your words into eternal blessings
               </p>
             </div>
           </div>

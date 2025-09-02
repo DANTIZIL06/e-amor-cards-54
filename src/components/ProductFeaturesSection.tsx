@@ -1,13 +1,13 @@
 import { Check } from "lucide-react";
 
 const features = [
-  "80 cartas com declarações bíblicas prontas",
-  "Mini-guia de uso prático",
-  "Molde da caixinha personalizada",
-  "Acesso à plataforma de conteúdo",
-  "Material com design exclusivo",
-  "Formato 100% digital em PDF",
-  "Acesso irrestrito e vitalício ao material"
+  "80 cards with ready biblical declarations",
+  "Mini practical usage guide",
+  "Personalized box template",
+  "Access to content platform",
+  "Material with exclusive design",
+  "100% digital PDF format",
+  "Unlimited and lifetime access to material"
 ];
 
 const ProductFeaturesSection = () => {
@@ -18,14 +18,14 @@ const ProductFeaturesSection = () => {
         <div className="text-center mb-8">
           <img 
             src="/lovable-uploads/3622e002-2050-4293-887f-25ddd8b38824.png"
-            alt="Criança feliz segurando carta"
+            alt="Happy child holding card"
             className="mx-auto w-[389px] md:w-[432px] lg:w-[518px] h-auto object-contain"
           />
         </div>
 
         <div className="text-center mb-6 md:mb-10">
           <h2 className="text-3xl md:text-4xl font-leto font-bold text-verde-musgo mb-3">
-            Veja tudo que você irá receber:
+            See everything you will receive:
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary to-accent mx-auto rounded-full"></div>
         </div>

@@ -12,7 +12,7 @@ const TestimonialsSection = () => {
           </div>
           
           <h2 className="text-3xl sm:text-3xl font-bold text-musgo mb-3 sm:mb-4 md:text-5xl">
-            O que as mães estão dizendo
+            What mothers are saying
           </h2>
           
         </div>
@@ -22,7 +22,7 @@ const TestimonialsSection = () => {
           {testimonialImages.map((image, index) => <div key={index} className="bg-white/90 p-3 sm:p-4 rounded-2xl shadow-[var(--shadow-card)] hover:shadow-xl transition-all duration-300 hover:-translate-y-1 animate-fade-in" style={{
           animationDelay: `${index * 0.2}s`
         }}>
-              <img src={image} alt={`Depoimento ${index + 1}`} className="w-full h-auto rounded-xl object-contain" />
+              <img src={image} alt={`Testimonial ${index + 1}`} className="w-full h-auto rounded-xl object-contain" />
             </div>)}
         </div>
       </div>

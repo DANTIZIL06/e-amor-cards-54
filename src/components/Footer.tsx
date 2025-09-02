@@ -7,13 +7,13 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-primary">Domus</h3>
             <p className="text-muted-foreground">
-              Fortalecendo famílias através da palavra de Deus e do amor materno.
+              Strengthening families through God's word and maternal love.
             </p>
           </div>
 
           {/* Contact */}
           <div className="space-y-4">
-            <h4 className="font-semibold text-foreground">Contato</h4>
+            <h4 className="font-semibold text-foreground">Contact</h4>
             <div className="space-y-2">
               <a href="mailto:contatodomus2025@outllok.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="w-4 h-4" />
@@ -28,7 +28,7 @@ const Footer = () => {
 
           {/* Social Media */}
           <div className="space-y-4">
-            <h4 className="font-semibold text-foreground">Redes Sociais</h4>
+            <h4 className="font-semibold text-foreground">Social Media</h4>
             <div className="flex gap-4">
               <a href="https://www.instagram.com/domus_bra?igsh=ODViZXg4Y2ppMGJx" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Instagram className="w-5 h-5" />
@@ -42,9 +42,9 @@ const Footer = () => {
 
         <div className="mt-6 pt-6 border-t border-border/50 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-1">
-            Feito com <Heart className="w-4 h-4 text-red-500" fill="currentColor" /> para famílias que amam a Deus
+            Made with <Heart className="w-4 h-4 text-red-500" fill="currentColor" /> for families who love God
           </p>
-          <p className="text-sm text-muted-foreground mt-2">© 2024 Domus. Todos os direitos reservados.</p>
+          <p className="text-sm text-muted-foreground mt-2">© 2024 Domus. All rights reserved.</p>
         </div>
       </div>
     </footer>;

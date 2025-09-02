@@ -9,7 +9,7 @@ const GuaranteeConversionSection = () => {
           {/* Título da seção */}
           <div className="text-center mb-6 sm:mb-8">
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-leto font-bold text-verde-musgo leading-tight mb-4">
-              Ainda tem dúvidas?
+              Still have doubts?
             </h2>
             <div className="w-20 h-1 bg-primary mx-auto rounded-full"></div>
           </div>
@@ -21,7 +21,7 @@ const GuaranteeConversionSection = () => {
             <div className="flex-shrink-0 animate-fade-in" style={{ animationDelay: '0.2s' }}>
               <img 
                 src="/lovable-uploads/8dc7d653-b5a8-4dcf-9cca-895ee4998724.png"
-                alt="Selo de garantia de 7 dias"
+                alt="7-day guarantee seal"
                 className="w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 drop-shadow-lg"
               />
             </div>
@@ -32,20 +32,20 @@ const GuaranteeConversionSection = () => {
                 <div className="flex items-center justify-center lg:justify-start gap-2 mb-4">
                   <Shield className="w-6 h-6 text-verde-musgo" />
                   <span className="font-leto font-bold text-verde-musgo text-lg sm:text-xl">
-                    Sua Garantia Total
+                    Your Total Guarantee
                   </span>
                 </div>
                 
                 <p className="text-foreground/90 leading-relaxed font-leto text-base sm:text-lg md:text-xl mb-6">
-                  Se ainda está na dúvida se o material vai ajudar seu filho, você tem{" "}
-                  <span className="font-bold text-bordo">7 dias de garantia</span>{" "}
-                  para começar a aplicar as ferramentas e colher os benefícios.
+                  If you're still wondering whether the material will help your child, you have{" "}
+                  <span className="font-bold text-bordo">7 days guarantee</span>{" "}
+                  to start applying the tools and reaping the benefits.
                 </p>
                 
                 <p className="text-foreground/80 leading-relaxed font-leto text-sm sm:text-base md:text-lg">
-                  Se caso você aplicar o material e, por qualquer motivo, ver que o conteúdo não trouxe nenhum ganho, 
-                  basta entrar em contato que{" "}
-                  <span className="font-bold text-verde-musgo">devolveremos 100% do seu dinheiro.</span>
+                  If you apply the material and, for any reason, see that the content brought no gain, 
+                  just contact us and{" "}
+                  <span className="font-bold text-verde-musgo">we will refund 100% of your money.</span>
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ const GuaranteeConversionSection = () => {
             >
               <button className="btn-primary w-full lg:w-auto min-h-[48px] text-base sm:text-lg md:text-xl lg:text-2xl px-6 py-4 sm:px-8 sm:py-5 md:px-12 md:py-6 bg-primary hover:bg-primary/90 text-primary-foreground rounded-xl shadow-[var(--shadow-cta)] hover:shadow-2xl transform hover:scale-105 active:scale-95 transition-all duration-300 font-leto font-bold group relative overflow-hidden animate-pulse-gentle">
                 <span className="relative z-10 flex items-center justify-center gap-2 md:gap-3">
-                  <span className="text-center flex-shrink-0">Quero meu Declarando Bênçãos</span>
+                  <span className="text-center flex-shrink-0">I Want My Speaking Blessings</span>
                   <Heart className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6 group-hover:animate-pulse flex-shrink-0" />
                 </span>
                 
@@ -74,7 +74,7 @@ const GuaranteeConversionSection = () => {
             <div className="mt-4 flex items-center justify-center gap-2 text-muted-foreground">
               <Shield className="w-4 h-4 text-green-500" />
               <span className="font-leto text-sm sm:text-base">
-                7 dias de garantia incondicional
+                7 days unconditional guarantee
               </span>
             </div>
           </div>

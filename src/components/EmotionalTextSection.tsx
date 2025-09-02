@@ -17,13 +17,13 @@ const EmotionalTextSection = () => {
               <div className="hidden lg:block absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-verde-claro via-verde-escuro to-transparent rounded-full opacity-60"></div>
               
               <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl text-muted-foreground leading-[1.7] max-w-[600px] mb-4 lg:mb-0 font-leto font-medium">
-                Na correria do dia a dia, acabamos dizendo coisas que nunca quisemos dizer aos nossos filhos. Mas mesmo sem intenção, essas{" "}
+                In the rush of daily life, we end up saying things we never meant to say to our children. But even without intention, these{" "}
                 <span className="font-bold text-verde-musgo relative">
-                  palavras deixam marcas, e moldam quem eles serão amanhã.
+                  words leave marks and shape who they will become tomorrow.
                   {/* Underline sutil animado */}
                   <span className="absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-verde-claro to-verde-escuro transform scale-x-0 transition-transform duration-700 group-hover:scale-x-100"></span>
                 </span>{" "}
-                Toda palavra planta uma semente. E com o tempo, ela dá frutos: de medo… ou de fé. De insegurança… ou de identidade.
+                Every word plants a seed. And with time, it bears fruit: of fear… or of faith. Of insecurity… or of identity.
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const EmotionalTextSection = () => {
                 
                 <img 
                   src="/lovable-uploads/e2075b97-bfbb-40f3-bd78-81d55a0148ea.png" 
-                  alt="Produto DOMUS 2025 - Declarando Bênçãos"
+                  alt="DOMUS 2025 Product - Speaking Blessings"
                   className="w-full h-auto object-contain relative z-10 transform transition-transform duration-500 group-hover:scale-[1.02]"
                 />
               </div>

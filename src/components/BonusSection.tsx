@@ -3,28 +3,28 @@ import { Gift, BookOpen, Calendar, Heart, Home, Edit3 } from "lucide-react";
 const bonuses = [
   {
     icon: BookOpen,
-    title: "Devocional \"Minha Boca Profetiza Vida\" (7 dias)",
-    description: "Reflexões com base na Bíblia para ajudá-la a transformar sua fala em instrumento de bênção."
+    title: "Devotional \"My Mouth Speaks Life\" (7 days)",
+    description: "Bible-based reflections to help you transform your speech into an instrument of blessing."
   },
   {
     icon: Calendar,
-    title: "Planner da Mãe Intercessora",
-    description: "Organize suas orações pelos filhos com intenção e constância."
+    title: "Intercessor Mother's Planner",
+    description: "Organize your prayers for your children with intention and consistency."
   },
   {
     icon: Gift,
-    title: "Caixa de Promessas Bíblicas (PDF + molde)",
-    description: "Uma coleção complementar com versículos poderosos, para lembrar diariamente do cuidado de Deus."
+    title: "Biblical Promises Box (PDF + template)",
+    description: "A complementary collection with powerful verses, to daily remember God's care."
   },
   {
     icon: Home,
-    title: "Pôster \"Declaração do Lar\" (PDF para impressão)",
-    description: "Um quadro para consagrar seu lar à presença de Deus, com uma oração profunda."
+    title: "\"Home Declaration\" Poster (PDF for printing)",
+    description: "A poster to consecrate your home to God's presence, with a deep prayer."
   },
   {
     icon: Edit3,
-    title: "Cards extras em branco",
-    description: "Escreva declarações personalizadas, orações específicas ou recados de amor."
+    title: "Extra blank cards",
+    description: "Write personalized declarations, specific prayers or messages of love."
   }
 ];
 
@@ -36,14 +36,14 @@ const BonusSection = () => {
         <div className="text-center mb-8">
           {/* Texto principal */}
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-leto font-bold text-verde-musgo leading-tight mb-6">
-            Comprando hoje, você também receberá
+            Buying today, you will also receive
           </h2>
           
           {/* Imagem dos bônus */}
           <div className="mb-6">
             <img 
               src="/lovable-uploads/c3259da8-734e-400b-8569-930004269b89.png"
-              alt="Todos os bônus especiais inclusos"
+              alt="All special bonuses included"
               className="w-full max-w-4xl mx-auto object-contain"
             />
           </div>
@@ -53,7 +53,7 @@ const BonusSection = () => {
             <div className="inline-flex items-center gap-3 mb-4">
               <Gift className="w-8 h-8 text-primary animate-pulse" />
               <h3 className="text-2xl md:text-3xl lg:text-4xl font-leto font-bold text-primary">
-                BÔNUS ESPECIAIS!
+                SPECIAL BONUSES!
               </h3>
               <Gift className="w-8 h-8 text-primary animate-pulse" />
             </div>
