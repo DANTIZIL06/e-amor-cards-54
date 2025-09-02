@@ -39,10 +39,10 @@ const FloatingElements = () => {
       <Button 
         onClick={scrollToTarget}
         className="btn-floating text-xs sm:text-sm px-3 sm:px-4 py-2 sm:py-3 min-h-[44px]"
-        aria-label="Quero agora!"
+        aria-label="I want it now!"
       >
-        <span className="hidden sm:inline">Quero agora!</span>
-        <span className="sm:hidden">Quero!</span>
+        <span className="hidden sm:inline">I want it now!</span>
+        <span className="sm:hidden">I want it!</span>
       </Button>
 
 
