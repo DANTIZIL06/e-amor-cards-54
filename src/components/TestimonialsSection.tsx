@@ -1,5 +1,5 @@
 import { Star } from 'lucide-react';
-const testimonialImages = ["/lovable-uploads/a4244b28-baaf-4059-966a-f6797884f4ba.png", "/lovable-uploads/f2445aa2-71ec-46c2-9123-e10c5e4f56db.png", "/lovable-uploads/1e15a620-028a-4f0f-959c-945df53d129c.png", "/lovable-uploads/b2162432-56fc-41e7-bc17-97c6fdc0f17f.png"];
+const testimonialImages = ["/lovable-uploads/cd3e8d7c-f50b-44ce-9124-6d7ef2966aa9.png", "/lovable-uploads/925b0c53-f6a5-4dee-a816-1d175086ddf3.png", "/lovable-uploads/9bf162b0-ebd8-4a3b-9fba-148aa8f07d42.png", "/lovable-uploads/10ed4430-449f-4726-a3e9-dfd140dc17d1.png"];
 const TestimonialsSection = () => {
   return <section className="py-8 sm:py-12 md:py-14 px-4 sm:px-6 bg-verde-claro/30">
       <div className="container mx-auto max-w-7xl">
