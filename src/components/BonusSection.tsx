@@ -42,7 +42,7 @@ const BonusSection = () => {
           {/* Imagem dos bônus */}
           <div className="mb-6">
             <img 
-              src="/lovable-uploads/c3259da8-734e-400b-8569-930004269b89.png"
+              src="/lovable-uploads/1d675205-e66a-4aaa-988b-b016f5e3099c.png"
               alt="All special bonuses included"
               className="w-full max-w-4xl mx-auto object-contain"
             />
