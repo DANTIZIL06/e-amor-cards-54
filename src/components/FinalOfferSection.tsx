@@ -33,7 +33,7 @@ const FinalOfferSection = () => {
           <div className="mb-3">
             <p className="text-6xl sm:text-7xl md:text-8xl font-leto font-bold" style={{
             color: '#8A262E'
-          }}>$14.00</p>
+          }}>$14.99</p>
           </div>
 
           {/* Preço à vista */}
