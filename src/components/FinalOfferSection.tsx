@@ -54,7 +54,7 @@ const FinalOfferSection = () => {
 
           {/* Botão CTA Principal - mantido exatamente como estava */}
           <div className="text-center">
-            <a href="https://pay.cakto.com.br/9eteqvz_485076" target="_blank" rel="noopener noreferrer" className="w-full lg:w-auto inline-block">
+            <a href="https://pay.hotmart.com/C101627129G?checkoutMode=10&bid=1756919092445" target="_blank" rel="noopener noreferrer" className="w-full lg:w-auto inline-block">
               <button className="btn-primary w-full lg:w-auto min-h-[48px] text-base sm:text-lg md:text-xl lg:text-2xl px-6 py-4 sm:px-8 sm:py-5 md:px-12 md:py-6 bg-primary hover:bg-primary/90 text-primary-foreground rounded-xl shadow-[var(--shadow-cta)] hover:shadow-2xl transform hover:scale-105 active:scale-95 transition-all duration-300 font-leto font-bold group relative overflow-hidden animate-pulse-gentle">
                 <span className="relative z-10 flex items-center justify-center gap-1.5 sm:gap-2 md:gap-3">
                   <span className="text-center whitespace-nowrap">I Want My Speaking Blessings</span>
