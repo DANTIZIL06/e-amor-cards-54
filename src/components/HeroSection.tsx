@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-const heroImage = "/lovable-uploads/84dab5cc-a416-4b59-8f29-67c1665cf61f.png";
+const heroImage = "/lovable-uploads/dc370afc-1b8f-4f76-950f-a44781df04b8.png";
 import { Heart, Star, Gift } from "lucide-react";
 const HeroSection = () => {
   const scrollToTarget = () => {
