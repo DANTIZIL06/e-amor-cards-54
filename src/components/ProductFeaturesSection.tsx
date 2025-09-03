@@ -17,7 +17,7 @@ const ProductFeaturesSection = () => {
         {/* Child image */}
         <div className="text-center mb-8">
           <img 
-            src="/lovable-uploads/3622e002-2050-4293-887f-25ddd8b38824.png"
+            src="/lovable-uploads/7d5413d2-b58d-4a7b-9020-64308d36a3a0.png"
             alt="Happy child holding card"
             className="mx-auto w-[389px] md:w-[432px] lg:w-[518px] h-auto object-contain"
           />
