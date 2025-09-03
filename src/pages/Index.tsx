@@ -31,6 +31,17 @@ const Index = () => {
       <GuaranteeConversionSection />
       <FAQSection />
       
+      {/* Logo Section */}
+      <section className="py-8 px-4 bg-background">
+        <div className="max-w-4xl mx-auto text-center">
+          <img 
+            src="/lovable-uploads/e358c00f-4982-4f66-8118-77f2115d0ee1.png"
+            alt="Domus 2025 - Lares firmados na fé e no amor"
+            className="w-64 md:w-80 h-auto mx-auto opacity-90"
+          />
+        </div>
+      </section>
+      
       <Footer />
       <FloatingElements />
     </div>
