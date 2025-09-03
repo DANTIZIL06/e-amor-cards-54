@@ -40,7 +40,7 @@ const EmotionalTextSection = () => {
                 <div className="hidden lg:block absolute -inset-2 bg-gradient-to-br from-verde-claro/40 via-transparent to-verde-escuro/40 rounded-xl opacity-50"></div>
                 
                 <img 
-                  src="/lovable-uploads/dc370afc-1b8f-4f76-950f-a44781df04b8.png" 
+                  src="/lovable-uploads/92f6c6a7-8d4c-40bf-9d58-8ce7893b0723.png" 
                   alt="DOMUS 2025 Product - Speaking Blessings"
                   className="w-full h-auto object-contain relative z-10 transform transition-transform duration-500 group-hover:scale-[1.02]"
                 />
