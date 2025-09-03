@@ -7,8 +7,7 @@ const PurchaseSection = () => {
     "Immediate access by email",
     "High-quality digital material",
     "Usage instructions included",
-    "7-day guarantee",
-    "WhatsApp support"
+    "7-day guarantee"
   ];
 
   return (

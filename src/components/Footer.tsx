@@ -19,10 +19,6 @@ const Footer = () => {
                 <Mail className="w-4 h-4" />
                 contatodomus2025@outllok.com
               </a>
-              <a href="https://wa.me/553183479083" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
-                <MessageCircle className="w-4 h-4" />
-                WhatsApp
-              </a>
             </div>
           </div>
 
