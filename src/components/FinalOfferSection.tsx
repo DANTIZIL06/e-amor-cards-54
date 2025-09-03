@@ -26,7 +26,7 @@ const FinalOfferSection = () => {
           
           {/* Imagem do produto */}
           <div className="mb-6">
-            <img src="/lovable-uploads/b91f38ac-2836-4471-9dcf-1cff6b10ee91.png" alt="All products and bonuses included" className="w-full max-w-3xl mx-auto" />
+            <img src="/lovable-uploads/53287059-2ea4-4715-ab7a-bfcdae18a811.png" alt="All products and bonuses included" className="w-full max-w-3xl mx-auto" />
           </div>
 
           {/* Preço parcelado */}
