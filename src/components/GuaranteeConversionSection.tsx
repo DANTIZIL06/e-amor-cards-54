@@ -20,7 +20,7 @@ const GuaranteeConversionSection = () => {
             {/* Selo de garantia */}
             <div className="flex-shrink-0 animate-fade-in" style={{ animationDelay: '0.2s' }}>
               <img 
-                src="/lovable-uploads/8dc7d653-b5a8-4dcf-9cca-895ee4998724.png"
+                src="/lovable-uploads/854a5b43-2606-49e8-845a-ce0f2c34b199.png"
                 alt="7-day guarantee seal"
                 className="w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 drop-shadow-lg"
               />
